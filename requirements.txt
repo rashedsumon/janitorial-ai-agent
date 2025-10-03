@@ -1,0 +1,15 @@
+streamlit
+pandas
+requests
+python-dotenv
+gspread
+google-auth
+twilio
+APScheduler
+openpyxl
+xlsxwriter
+pdfkit
+jinja2
+python-dateutil
+loguru
+pyyaml
